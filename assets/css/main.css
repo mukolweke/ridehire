@@ -1,0 +1,52 @@
+.navbar{
+    border-radius: 0;
+    margin-bottom: 0;
+    background: url("../img/header.jpg");
+}
+
+.jumbotron{
+    position: relative;
+    text-align: center;
+    color: white;
+    background-image: url("../img/header.jpg");
+}
+
+.btn-myn{
+    border-radius: 0;
+    width: 200px;
+    margin-top: 30px;
+}
+
+.form-block{
+    border-radius: 0;
+}
+
+.tdlabel{
+    border-left: 1px solid #ddd; text-align: center;
+}
+
+.trlabel{
+    border-bottom: 1px solid #ddd;
+}
+
+.title-hr{
+    background: white;
+    height: 5px;
+    margin-left: 5px;
+    width: 100px;
+}
+
+
+.panelSignup{
+    width: 340px;
+    margin: 0 auto;
+}
+
+.panelSignin{
+    width: 340px;
+    margin: 0 auto;
+}
+
+.signupDivision span{
+    color: #c33;
+}
